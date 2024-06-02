@@ -1,5 +1,5 @@
 # C-
-                       //C++ repository with Matrix Effect
+C++ repository with Matrix Effect
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
